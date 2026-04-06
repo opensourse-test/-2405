@@ -2,6 +2,7 @@ mylist=[1,2,3,4,5,6,7,8,9,10]
 mylist1=[]
 mylist2=[]
 ind=len(mylist)
+//ind表示数组长度
 i=0
 while i<ind:
     if mylist[i]%2==0:
